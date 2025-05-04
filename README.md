@@ -1,5 +1,6 @@
 *This template has been replaced with a snippet on Start Bootstrap. The repository for this template has been archived, and will receive no future updates. [Click here](https://startbootstrap.com/snippets/portfolio-three-column/) to view the actively developed snippet for this template on Start Bootstrap.*
 #This is a repository for my Geovisualization Portfolio
+This portfolio includes the assignments and the link to the final project for GEOG 3540 - Introduction to Geographic Visualization
 # [Start Bootstrap - 3 Col Portfolio](https://startbootstrap.com/template-overviews/3-col-portfolio/)
 
 [3 Col Portfolio](https://startbootstrap.com/template-overviews/3-col-portfolio/) is a three column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
